@@ -1,0 +1,101 @@
+img {
+    border-radius: 50%;
+}
+
+body {
+    background-color: rgb(190, 193, 228);
+}
+
+h2 {
+    color: #52119c;
+    padding-left: 20px;
+}
+
+h1 {
+    color: #2b0753;
+    margin-left: 45px;
+}
+
+h3 {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    unicode-bidi: isolate;
+    margin-left: 45px;
+}
+
+img {
+    padding-left: 20px;
+}
+
+footer {
+    background-color: rgb(98, 154, 240);
+    text-align: center;
+    font-size: 30px;
+    margin-top: 3cm;
+}
+
+table {
+    margin-left: 20px;
+}
+
+p {
+    margin-left: 10px;
+    size: 30px;
+}
+
+hr {
+    margin-bottom: 5px;
+}
+
+header {
+    background-color: rgb(98, 154, 240);
+    text-align: center;
+    font-size: 50px;
+    margin-bottom: 2.5cm;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+    width: 60%;
+    margin: 20px auto;
+}
+
+li {
+    padding: 10px 15px;
+    border-bottom: 1px solid #ddd;
+}
+
+form {
+    background: #fff;
+    width: 60%;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+}
+
+input, textarea {
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-family: "Prompt", sans-serif;
+}
+
+.back-btn {
+    display: inline-block;
+    text-decoration: none;
+    color: #1f3c88;
+    background: #f5d142;
+    padding: 8px 15px;
+    border-radius: 5px;
+    margin-left: 20%;
+}
